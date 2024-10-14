@@ -11,6 +11,12 @@
 * PySpark not only offers an API for Spark but also aids in connecting with Resilient Distributed Datasets (RDDs)
 * Contrast between Pandas and Spark dataframes lies in their execution
 * In PySpark, operations are postponed until they are specifically requested in the pipeline (PySpark, n.d.)
+## Long Short-Term Memory
+* Long Short-Term Memory (LSTM) stands out for its proficiency in capturing intricate patterns and dependencies within historical data
+* LSTM shows promise for understanding the unpredictable nature of the stock market
+* LSTM uses memory cells, gates, and well-designed connections to selectively store and transmit information over extended time periods, allowing these models to effectively capture complex temporal patterns in sequential data, especially in predicting time series data like stock prices (Chauhan, 2023)
+
+
 
 
 
