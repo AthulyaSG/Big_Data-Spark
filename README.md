@@ -98,43 +98,43 @@
 ## Descriptive Analysis
 
 ** AAPL **
-Mean close : 168.11
-SD : 60.89
-Minimum close : 90.34
-Maximum close : 366.53
+- Mean close : 168.11
+- SD : 60.89
+- Minimum close : 90.34
+- Maximum close : 366.53
 
 ![image](https://github.com/user-attachments/assets/ea858804-a9ee-49f5-ae33-8a2b517b1084)
 
 
 ** GOOG **
-Mean close : 954.07
-SD : 257.03
-Minimum close : 491.20
-Maximum close : 1526.69
+- Mean close : 954.07
+- SD : 257.03
+- Minimum close : 491.20
+- Maximum close : 1526.69
 
 ![image](https://github.com/user-attachments/assets/60f30429-e79a-43ed-8f96-8f6e7704fdf6)
 
 ** AMZN **
-Mean close : 1213.50
-SD : 601.22
-Minimum close : 286.95
-Maximum close : 2890.30
+- Mean close : 1213.50
+- SD : 601.22
+- Minimum close : 286.95
+- Maximum close : 2890.30
 
 ![image](https://github.com/user-attachments/assets/2c797445-3ffe-4a32-9fe8-13ce78bcda90)
 
 ** MSFT **
-Mean close : 89.55
-SD : 40.84
-Minimum close : 40.29
-Maximum close : 206.26
+- Mean close : 89.55
+- SD : 40.84
+- Minimum close : 40.29
+- Maximum close : 206.26
 
 ![image](https://github.com/user-attachments/assets/d7803982-3269-4d0a-9f7f-05acbd61c563)
 
 ** TSLA **
-Mean close : 310.69
-SD : 152.18
-Minimum close : 143.67
-Maximum close : 1208.66
+- Mean close : 310.69
+- SD : 152.18
+- Minimum close : 143.67
+- Maximum close : 1208.66
 
 ![image](https://github.com/user-attachments/assets/fde030c1-cfae-4f38-85cf-10249e5594d1)
 
