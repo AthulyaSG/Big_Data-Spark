@@ -74,7 +74,7 @@
 - Plotted each attribute of all 5 stocks
 - Eventhough there are outliers, it cannot be removed/modified as it will remove the important values
 
-![image](https://github.com/user-attachments/assets/bdd536bc-28bf-4170-885f-98f61a7eab0a)
+![image](https://github.com/user-attachments/assets/255bdecf-160c-488a-ac14-4baf20b638d0)
 
 - Plotted each stock separately based on features
 - Large volume: MSFT, followed by AAPL
