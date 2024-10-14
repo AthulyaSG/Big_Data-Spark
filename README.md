@@ -25,6 +25,7 @@
 - Total count of distinct company symbols
 - Presence of 6335  companies
 ![image](https://github.com/user-attachments/assets/f9af7d1b-54f4-4b5b-b2a6-4e30117b97e8)
+
 ## Features
 - Date: Date of each transaction from 2015 to 2020
 - Open: Opening price, denoting the initial transaction price per share in the beginning of a day
@@ -72,7 +73,7 @@
 - Plotted each attribute of all 5 stocks
 - Eventhough there are outliers, it cannot be removed/modified as it will remove the important values
 
-  ![image](https://github.com/user-attachments/assets/fa504397-e5fe-4609-99f8-4b4ed047dec5)
+![image](https://github.com/user-attachments/assets/bdd536bc-28bf-4170-885f-98f61a7eab0a)
 
 - Plotted each stock separately based on features
 - Large volume: MSFT, followed by AAPL
