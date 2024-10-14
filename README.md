@@ -24,6 +24,25 @@
 - Total count of distinct company symbols
 - Presence of 6335  companies
 ![image](https://github.com/user-attachments/assets/f9af7d1b-54f4-4b5b-b2a6-4e30117b97e8)
+## Features
+Date: Date of each transaction from 2015 to 2020
+
+Open: Opening price, denoting the initial transaction price per share in the beginning of a day
+
+High: The highest price during the trading in a day
+
+Low: The lowest price for the trading in a day
+
+Close: Closing price, representing the transaction price at the end of a trading day
+
+Close Adjusted: The adjusted closing price is adjusted to dividends and stock splits
+
+Volume: The number of stocks of a company transacted in a day
+
+Symbol: The unique identifier or ticker for a stock of a company
+![image](https://github.com/user-attachments/assets/8a20d5d0-0b4d-4409-b537-4ce5883ac045)
+
+
 
 
 
