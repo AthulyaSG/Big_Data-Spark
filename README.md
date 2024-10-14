@@ -141,6 +141,17 @@
 
 ![image](https://github.com/user-attachments/assets/fde030c1-cfae-4f38-85cf-10249e5594d1)
 
+## Time Series Analysis
+
+- To identify historical patterns, model price movements, and make predictions
+- AMZN: Upward trend, exponential growth after 2018
+- GOOG: In 2015, exhibited the highest stock price, but later surpassed by AMZN, after mid-2016
+- TSLA: Steady till 2020
+- AAPL and MSFT: No major changes
+
+![image](https://github.com/user-attachments/assets/3a47bf00-c1ad-4323-b8c4-f9f78ae078b4)
+
+
 
 
 
