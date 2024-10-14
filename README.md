@@ -1,4 +1,4 @@
-### Stock Market
+![image](https://github.com/user-attachments/assets/90ea60af-c703-467d-8304-a5e84a1d8d41)### Stock Market
 * The process of buying and selling stocks involves transactions in the stock market
 * Companies secure capital in the stock market through the sale of shares, or equity, to investors
 * A stock signifies ownership in a company or organization, entailing a proportional stake in its assets and earnings
@@ -188,6 +188,19 @@
 
 ![image](https://github.com/user-attachments/assets/009c2d13-d476-4ab6-bd27-47b3e7108aeb)
 
+To check the correlation,
+- if the value is near to -1, then it is strong negative correlation
+- if the value is near to 0, then it is weak correlation
+- if the value is near to +1, then it is strong positive correlation
+- As the values of high, low, close, and adjclose are the same, all the correlation is represented as 1.
+
+![image](https://github.com/user-attachments/assets/5911dd84-7f1a-4b10-b7a6-c136483c2429)
+
+- AAPL stock is decreased till 2016
+- After 2016, there was an upward trend eventhough it decreases in later years
+- No visible variations in high, low, close, and adjclose values, indicating all are more similar to one another.
+
+![image](https://github.com/user-attachments/assets/f2480b34-935f-47f1-ac46-53a37a5f24c0)
 
 
 
