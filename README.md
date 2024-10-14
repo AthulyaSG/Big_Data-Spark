@@ -65,6 +65,24 @@
    
    ![image](https://github.com/user-attachments/assets/6ef774b2-b2b8-4a1e-8141-4f8a3ed25f99)
 
+## Boxplots
+
+- Visualized outliers
+- Plotted each attribute of all 5 stocks
+- Eventhough there are outliers, it cannot be removed/modified as it will remove the important values
+
+  ![image](https://github.com/user-attachments/assets/fa504397-e5fe-4609-99f8-4b4ed047dec5)
+
+- Plotted each stock separately based on features
+- Large volume: MSFT, followed by AAPL
+- Highest price: AMZN
+- Open is not considered, as previous day close is same as the open for the next day
+
+  ![image](https://github.com/user-attachments/assets/f24194e8-4d07-4f33-9a85-e4b85aa534aa)
+
+
+
+
 
 
 
