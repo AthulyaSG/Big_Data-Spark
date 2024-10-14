@@ -80,7 +80,19 @@
 
   ![image](https://github.com/user-attachments/assets/f24194e8-4d07-4f33-9a85-e4b85aa534aa)
 
+### Visualization
 
+- Plotted bar chart for volume of each stocks
+- APPL has the largest volume, followed by MSFT
+
+![image](https://github.com/user-attachments/assets/d817ef64-95d2-45fe-9fb7-79778af891b9)
+
+- Histograms are used for continuous variables.
+- APPL and AMZN have the highest volume
+- The highest price rate (high, low, close, and adjclose) is for AMZN
+- The lowest for MSFT
+
+![image](https://github.com/user-attachments/assets/e44e5355-0997-48a9-a05e-6afa054995cf)
 
 
 
