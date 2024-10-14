@@ -1,4 +1,4 @@
-## Application of PySpark in the Stock Market
+![image](https://github.com/user-attachments/assets/96508371-eb8e-41d3-ac77-8d2e165b8711)## Application of PySpark in the Stock Market
 ### Stock Market
 * The process of buying and selling stocks involves transactions in the stock market
 * Companies secure capital in the stock market through the sale of shares, or equity, to investors
@@ -160,6 +160,15 @@
 - MSFT: Not much daily returns
 
 ![image](https://github.com/user-attachments/assets/786fed9c-ac6f-4b81-81e2-69929071e397)
+
+## Moving Average
+
+- Help identify trends by reducing noise in price
+- 30-day and 50-day rolling averages: calculating the average value of a stock price over a specified window of time
+- Overall trend: Upward
+
+![image](https://github.com/user-attachments/assets/072fe0eb-16d5-4e94-b80f-6bfcb51278d2)
+
 
 
 
