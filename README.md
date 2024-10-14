@@ -122,8 +122,21 @@ Maximum close : 2890.30
 
 ![image](https://github.com/user-attachments/assets/2c797445-3ffe-4a32-9fe8-13ce78bcda90)
 
+** MSFT **
+Mean close : 89.55
+SD : 40.84
+Minimum close : 40.29
+Maximum close : 206.26
 
+![image](https://github.com/user-attachments/assets/d7803982-3269-4d0a-9f7f-05acbd61c563)
 
+** TSLA **
+Mean close : 310.69
+SD : 152.18
+Minimum close : 143.67
+Maximum close : 1208.66
+
+![image](https://github.com/user-attachments/assets/fde030c1-cfae-4f38-85cf-10249e5594d1)
 
 
 
