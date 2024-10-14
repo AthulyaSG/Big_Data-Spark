@@ -36,6 +36,17 @@
 - Symbol: The unique identifier or ticker for a stock of a company
 
 ![image](https://github.com/user-attachments/assets/a57f1187-76d7-455d-af88-97cb5fd4dbf2)
+## Feature Categorization
+* Temporal Features: Date (Timestamp)
+* Quantitative Features/Continuous Variables: Volume, Open, High, Low, Close, Adjclose
+* Qualitative Features: Symbol/Ticker
+![image](https://github.com/user-attachments/assets/2df0d202-9108-43b8-b7f5-5497b4c14a27)
+- symbol -> string
+- date -> date format and is used for storing date-related information
+- volume -> long (i.e., integer)
+- open, high, low, close, and adjclose -> double (i.e., floating point)
+
+
 
 
 
