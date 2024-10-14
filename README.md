@@ -1,3 +1,5 @@
+# Big Data
+## Application of PySpark in the Stock Market
 ### Stock Market
 * The process of buying and selling stocks involves transactions in the stock market
 * Companies secure capital in the stock market through the sale of shares, or equity, to investors
@@ -218,14 +220,15 @@ Normalization of the values is performed to make all the values to be consistent
 - All values are treated equally
 - Optimization algorithms work faster
 
-![image](https://github.com/user-attachments/assets/f71e8106-437b-4d8d-8864-48db0225acee)
+![image](https://github.com/user-attachments/assets/2d402be1-aebd-4d57-94aa-9f6bd57eccc7)
 
 ### Train and Test Split
 
 - Training: 80% of the data
 - Testing: 20% of the data
 
-![image](https://github.com/user-attachments/assets/980b4399-872d-4b8b-98dc-7a92e7bd1d60)
+![image](https://github.com/user-attachments/assets/3d3c9b54-bd7b-4c5c-88c3-59ac26ea52b2)
+
 
 
 
