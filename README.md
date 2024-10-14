@@ -149,7 +149,8 @@
 - TSLA: Steady till 2020
 - AAPL and MSFT: No major changes
 
-![image](https://github.com/user-attachments/assets/3a47bf00-c1ad-4323-b8c4-f9f78ae078b4)
+![image](https://github.com/user-attachments/assets/1b3557ec-9874-4b51-89a1-7f90c5d58e58)
+
 
 
 
