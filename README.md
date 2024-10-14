@@ -111,7 +111,9 @@ Mean close : 954.07
 SD : 257.03
 Minimum close : 491.20
 Maximum close : 1526.69
-![image](https://github.com/user-attachments/assets/97160108-dea5-4ab4-b372-df681df08dcd)
+
+![image](https://github.com/user-attachments/assets/8ad116a2-495d-41ec-bb14-301ec2b6b069)
+
 
 
 
