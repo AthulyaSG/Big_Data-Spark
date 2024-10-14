@@ -41,7 +41,7 @@
 * Quantitative Features/Continuous Variables: Volume, Open, High, Low, Close, Adjclose
 * Qualitative Features: Symbol/Ticker
   
-![image](https://github.com/user-attachments/assets/a3e1fb88-7ec8-471a-b12d-ca5c81232204)
+![image](https://github.com/user-attachments/assets/4ff2fbc9-e5a7-4eb4-a28c-f3791470b8e4)
 
 - symbol -> string
 - date -> date format and is used for storing date-related information
