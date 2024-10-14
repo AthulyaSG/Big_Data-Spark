@@ -18,6 +18,13 @@
 - Number of rows: 68522038
 - Number of columns: 8
 ![image](https://github.com/user-attachments/assets/5da40cc7-d83f-49cb-ae0c-59914f2404af)
+- Minimum and maximum dates are determined
+- Timeframe from January 2, 2015, to July 2, 2020
+![image](https://github.com/user-attachments/assets/0bb4da6f-7f6b-43e5-9cdc-aaf49c22810b)
+- Total count of distinct company symbols
+- Presence of 6335  companies
+![image](https://github.com/user-attachments/assets/f9af7d1b-54f4-4b5b-b2a6-4e30117b97e8)
+
 
 
 
