@@ -112,7 +112,8 @@ SD : 257.03
 Minimum close : 491.20
 Maximum close : 1526.69
 
-![image](https://github.com/user-attachments/assets/8ad116a2-495d-41ec-bb14-301ec2b6b069)
+![image](https://github.com/user-attachments/assets/60f30429-e79a-43ed-8f96-8f6e7704fdf6)
+
 
 
 
