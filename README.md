@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/90ea60af-c703-467d-8304-a5e84a1d8d41)### Stock Market
+![image](https://github.com/user-attachments/assets/d97eb1f7-6a43-467d-9f8b-b3bfe11add09)### Stock Market
 * The process of buying and selling stocks involves transactions in the stock market
 * Companies secure capital in the stock market through the sale of shares, or equity, to investors
 * A stock signifies ownership in a company or organization, entailing a proportional stake in its assets and earnings
@@ -202,6 +202,15 @@ To check the correlation,
 
 ![image](https://github.com/user-attachments/assets/f2480b34-935f-47f1-ac46-53a37a5f24c0)
 
+## Model
+
+- Filter the stock to be predicted
+- In this case, AAPL is considered from 5 stocks
+- Target variable: close
+
+![image](https://github.com/user-attachments/assets/23ff6057-1a0a-41ec-9fca-236065254e52)
+
+![image](https://github.com/user-attachments/assets/3a0ef87a-bb3d-434e-b684-9fe47b68cb08)
 
 
 
