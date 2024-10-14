@@ -25,7 +25,7 @@
 - Presence of 6335  companies
 ![image](https://github.com/user-attachments/assets/f9af7d1b-54f4-4b5b-b2a6-4e30117b97e8)
 
-## Features
+## Data
 - Date: Date of each transaction from 2015 to 2020
 - Open: Opening price, denoting the initial transaction price per share in the beginning of a day
 - High: The highest price during the trading in a day
@@ -36,7 +36,7 @@
 - Symbol: The unique identifier or ticker for a stock of a company
 
 ![image](https://github.com/user-attachments/assets/a57f1187-76d7-455d-af88-97cb5fd4dbf2)
-### Feature Categorization
+### Data Categorization
 * Temporal Features: Date (Timestamp)
 * Quantitative Features/Continuous Variables: Volume, Open, High, Low, Close, Adjclose
 * Qualitative Features: Symbol/Ticker
@@ -176,9 +176,17 @@
 
 ![image](https://github.com/user-attachments/assets/9bccec98-c94c-4214-9fa7-f22c8c6d959a)
 
+## Correlation
 
+- To identify where the majority of values lie
+- To determine whether there is any relationship between each feature
 
+![image](https://github.com/user-attachments/assets/b58394ad-b315-4926-b7ce-4576540ed652)
 
+- Distribution of values for the numerical column
+- Open, close, high, low, and adjclose are similar
+
+![image](https://github.com/user-attachments/assets/9b8f1754-e737-43cb-886a-09fd029731ca)
 
 
 
