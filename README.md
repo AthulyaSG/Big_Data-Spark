@@ -65,7 +65,8 @@
    
    ![image](https://github.com/user-attachments/assets/6ef774b2-b2b8-4a1e-8141-4f8a3ed25f99)
 
-## Boxplots
+## Visualization
+### Boxplots
 
 - Visualized outliers
 - Plotted each attribute of all 5 stocks
@@ -80,7 +81,7 @@
 
   ![image](https://github.com/user-attachments/assets/f24194e8-4d07-4f33-9a85-e4b85aa534aa)
 
-### Visualization
+### Histograms
 
 - Plotted bar chart for volume of each stocks
 - APPL has the largest volume, followed by MSFT
@@ -93,6 +94,25 @@
 - The lowest for MSFT
 
 ![image](https://github.com/user-attachments/assets/e44e5355-0997-48a9-a05e-6afa054995cf)
+
+## Descriptive Analysis
+
+** AAPL **
+Mean close : 168.11
+SD : 60.89
+Minimum close : 90.34
+Maximum close : 366.53
+
+![image](https://github.com/user-attachments/assets/ea858804-a9ee-49f5-ae33-8a2b517b1084)
+
+
+** GOOG **
+Mean close : 954.07
+SD : 257.03
+Minimum close : 491.20
+Maximum close : 1526.69
+![image](https://github.com/user-attachments/assets/97160108-dea5-4ab4-b372-df681df08dcd)
+
 
 
 
