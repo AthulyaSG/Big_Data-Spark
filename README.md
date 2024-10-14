@@ -230,6 +230,12 @@ Normalization of the values is performed to make all the values to be consistent
 ![image](https://github.com/user-attachments/assets/3d3c9b54-bd7b-4c5c-88c3-59ac26ea52b2)
 
 
+Sequences of length from training and testing data for training an LSTM model are created, where each sequence represents a historical window used to predict the next time step.
+
+
+![image](https://github.com/user-attachments/assets/1ee17070-70ff-46ec-aad4-501fd9fd054b)
+
+
 
 
 
