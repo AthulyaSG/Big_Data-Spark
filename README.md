@@ -40,7 +40,8 @@
 * Temporal Features: Date (Timestamp)
 * Quantitative Features/Continuous Variables: Volume, Open, High, Low, Close, Adjclose
 * Qualitative Features: Symbol/Ticker
-![image](https://github.com/user-attachments/assets/2df0d202-9108-43b8-b7f5-5497b4c14a27)
+![image](https://github.com/user-attachments/assets/a3e1fb88-7ec8-471a-b12d-ca5c81232204)
+
 - symbol -> string
 - date -> date format and is used for storing date-related information
 - volume -> long (i.e., integer)
