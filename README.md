@@ -151,6 +151,16 @@
 
 ![image](https://github.com/user-attachments/assets/1b3557ec-9874-4b51-89a1-7f90c5d58e58)
 
+## Daily Return
+
+- To check the day-to-day fluctuations in pricing of each stock
+- AMZN: High daily return percentage, touching 1000 in 2019
+- TSLA: Initially high, then dropped to 100 mid-2019
+- GOOG and APPL: Less volatility with some overlaps
+- MSFT: Not much daily returns
+
+![image](https://github.com/user-attachments/assets/786fed9c-ac6f-4b81-81e2-69929071e397)
+
 
 
 
