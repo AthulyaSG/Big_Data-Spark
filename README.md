@@ -33,6 +33,7 @@
 - Close Adjusted: The adjusted closing price is adjusted to dividends and stock splits
 - Volume: The number of stocks of a company transacted in a day
 - Symbol: The unique identifier or ticker for a stock of a company
+
 ![image](https://github.com/user-attachments/assets/a57f1187-76d7-455d-af88-97cb5fd4dbf2)
 
 
