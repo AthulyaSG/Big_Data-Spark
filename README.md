@@ -17,7 +17,8 @@
 ## Data Characteristics
 - Number of rows: 68522038
 - Number of columns: 8
-![image](https://github.com/user-attachments/assets/5da40cc7-d83f-49cb-ae0c-59914f2404af)
+![image](https://github.com/user-attachments/assets/92ea9f82-3195-46ce-a120-7df79a69ab6a)
+
 - Minimum and maximum dates are determined
 - Timeframe from January 2, 2015, to July 2, 2020
 ![image](https://github.com/user-attachments/assets/0bb4da6f-7f6b-43e5-9cdc-aaf49c22810b)
