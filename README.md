@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/8368f700-27f1-48c8-937e-c8229bf7d497)# Big Data
 ## Application of PySpark in the Stock Market
 ### Stock Market
 * The process of buying and selling stocks involves transactions in the stock market
@@ -16,9 +15,9 @@
 * LSTM shows promise for understanding the unpredictable nature of the stock market
 * LSTM uses memory cells, gates, and well-designed connections to selectively store and transmit information over extended time periods, allowing these models to effectively capture complex temporal patterns in sequential data, especially in predicting time series data like stock prices (Chauhan, 2023)
 ## Data Characteristics
-Number of rows: 68522038
-Number of columns: 8
-![Uploading image.png…]()
+- Number of rows: 68522038
+- Number of columns: 8
+
 
 
 
