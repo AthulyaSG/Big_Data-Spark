@@ -181,12 +181,13 @@
 - To identify where the majority of values lie
 - To determine whether there is any relationship between each feature
 
-![image](https://github.com/user-attachments/assets/25100054-1182-4dc7-81f2-c78d27499aec)
+![image](https://github.com/user-attachments/assets/6438e704-f068-4732-b184-19e02bc8273c)
 
 - Distribution of values for the numerical column
 - Open, close, high, low, and adjclose are similar
 
-![image](https://github.com/user-attachments/assets/d6063a30-49b8-403e-8218-c16492da8f25)
+![image](https://github.com/user-attachments/assets/009c2d13-d476-4ab6-bd27-47b3e7108aeb)
+
 
 
 
