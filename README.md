@@ -80,7 +80,7 @@
 - Highest price: AMZN
 - Open is not considered, as previous day close is same as the open for the next day
 
-  ![image](https://github.com/user-attachments/assets/f24194e8-4d07-4f33-9a85-e4b85aa534aa)
+![image](https://github.com/user-attachments/assets/f24194e8-4d07-4f33-9a85-e4b85aa534aa)
 
 ### Bar Chart
 
