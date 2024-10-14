@@ -114,6 +114,14 @@ Maximum close : 1526.69
 
 ![image](https://github.com/user-attachments/assets/60f30429-e79a-43ed-8f96-8f6e7704fdf6)
 
+** AMZN **
+Mean close : 1213.50
+SD : 601.22
+Minimum close : 286.95
+Maximum close : 2890.30
+
+![image](https://github.com/user-attachments/assets/2c797445-3ffe-4a32-9fe8-13ce78bcda90)
+
 
 
 
