@@ -17,6 +17,7 @@
 ## Data Characteristics
 - Number of rows: 68522038
 - Number of columns: 8
+![image](https://github.com/user-attachments/assets/5da40cc7-d83f-49cb-ae0c-59914f2404af)
 
 
 
