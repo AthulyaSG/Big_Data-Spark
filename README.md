@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/96508371-eb8e-41d3-ac77-8d2e165b8711)## Application of PySpark in the Stock Market
 ### Stock Market
 * The process of buying and selling stocks involves transactions in the stock market
 * Companies secure capital in the stock market through the sale of shares, or equity, to investors
@@ -168,6 +167,14 @@
 - Overall trend: Upward
 
 ![image](https://github.com/user-attachments/assets/072fe0eb-16d5-4e94-b80f-6bfcb51278d2)
+
+## Volume Analysis
+
+- MSFT exhibits higher average trading volumes
+- AAPL is closely followed by MSFT
+- AMZN, GOOG, and TSLA have no noticeable movement
+
+![image](https://github.com/user-attachments/assets/9bccec98-c94c-4214-9fa7-f22c8c6d959a)
 
 
 
