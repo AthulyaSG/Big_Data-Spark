@@ -36,7 +36,7 @@
 - Symbol: The unique identifier or ticker for a stock of a company
 
 ![image](https://github.com/user-attachments/assets/a57f1187-76d7-455d-af88-97cb5fd4dbf2)
-## Feature Categorization
+### Feature Categorization
 * Temporal Features: Date (Timestamp)
 * Quantitative Features/Continuous Variables: Volume, Open, High, Low, Close, Adjclose
 * Qualitative Features: Symbol/Ticker
@@ -47,6 +47,26 @@
 - date -> date format and is used for storing date-related information
 - volume -> long (i.e., integer)
 - open, high, low, close, and adjclose -> double (i.e., floating point)
+
+## Data Preprocessing
+- Check for missing values
+- No null values
+
+![image](https://github.com/user-attachments/assets/6f2a99de-9a77-4e91-8936-260e9780c5d9)
+
+- Filtered a list of company using symbols
+- Calculated the number of occurrences
+- Arranged in descending order
+1. Apple -> AAPL
+2. Amazon -> Amazon
+3. Google -> Google
+4. Microsoft -> MSFT
+5. Tesla -> TSLA
+   
+   ![image](https://github.com/user-attachments/assets/6ef774b2-b2b8-4a1e-8141-4f8a3ed25f99)
+
+
+
 
 
 
