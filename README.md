@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d97eb1f7-6a43-467d-9f8b-b3bfe11add09)### Stock Market
+### Stock Market
 * The process of buying and selling stocks involves transactions in the stock market
 * Companies secure capital in the stock market through the sale of shares, or equity, to investors
 * A stock signifies ownership in a company or organization, entailing a proportional stake in its assets and earnings
@@ -211,6 +211,22 @@ To check the correlation,
 ![image](https://github.com/user-attachments/assets/23ff6057-1a0a-41ec-9fca-236065254e52)
 
 ![image](https://github.com/user-attachments/assets/3a0ef87a-bb3d-434e-b684-9fe47b68cb08)
+
+### Data Preprocessing
+
+Normalization of the values is performed to make all the values to be consistent
+- All values are treated equally
+- Optimization algorithms work faster
+
+![image](https://github.com/user-attachments/assets/f71e8106-437b-4d8d-8864-48db0225acee)
+
+### Train and Test Split
+
+- Training: 80% of the data
+- Testing: 20% of the data
+
+![image](https://github.com/user-attachments/assets/980b4399-872d-4b8b-98dc-7a92e7bd1d60)
+
 
 
 
