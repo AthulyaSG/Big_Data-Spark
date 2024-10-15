@@ -1,21 +1,30 @@
 # Big Data
+
 ## Application of PySpark in the Stock Market
+
 ### Stock Market
+
 * The process of buying and selling stocks involves transactions in the stock market
 * Companies secure capital in the stock market through the sale of shares, or equity, to investors
 * A stock signifies ownership in a company or organization, entailing a proportional stake in its assets and earnings
 * Stock exchanges serve as secondary markets where shareholders can engage in transactions (Hayes, 2023)
+
 ## PySpark
+
 * To facilitate the integration of Spark and Python
 * The Python API for Apache Spark, an open-source distributed computing framework and collection of libraries for processing massive amounts of data in real-time
 * PySpark not only offers an API for Spark but also aids in connecting with Resilient Distributed Datasets (RDDs)
 * Contrast between Pandas and Spark dataframes lies in their execution
 * In PySpark, operations are postponed until they are specifically requested in the pipeline (PySpark, n.d.)
+
 ## Long Short-Term Memory
+
 * Long Short-Term Memory (LSTM) stands out for its proficiency in capturing intricate patterns and dependencies within historical data
 * LSTM shows promise for understanding the unpredictable nature of the stock market
 * LSTM uses memory cells, gates, and well-designed connections to selectively store and transmit information over extended time periods, allowing these models to effectively capture complex temporal patterns in sequential data, especially in predicting time series data like stock prices (Chauhan, 2023)
+
 ## Data Characteristics
+
 - Number of rows: 68522038
 - Number of columns: 8
 ![image](https://github.com/user-attachments/assets/92ea9f82-3195-46ce-a120-7df79a69ab6a)
@@ -28,6 +37,7 @@
 ![image](https://github.com/user-attachments/assets/f9af7d1b-54f4-4b5b-b2a6-4e30117b97e8)
 
 ## Data
+
 - Date: Date of each transaction from 2015 to 2020
 - Open: Opening price, denoting the initial transaction price per share in the beginning of a day
 - High: The highest price during the trading in a day
@@ -38,7 +48,9 @@
 - Symbol: The unique identifier or ticker for a stock of a company
 
 ![image](https://github.com/user-attachments/assets/a57f1187-76d7-455d-af88-97cb5fd4dbf2)
+
 ### Data Categorization
+
 * Temporal Features: Date (Timestamp)
 * Quantitative Features/Continuous Variables: Volume, Open, High, Low, Close, Adjclose
 * Qualitative Features: Symbol/Ticker
@@ -51,6 +63,7 @@
 - open, high, low, close, and adjclose -> double (i.e., floating point)
 
 ## Data Preprocessing
+
 - Check for missing values
 - No null values
 
@@ -68,6 +81,7 @@
  ![image](https://github.com/user-attachments/assets/6ef774b2-b2b8-4a1e-8141-4f8a3ed25f99)
 
 ## Visualization
+
 ### Boxplots
 
 - Visualized outliers
@@ -91,6 +105,7 @@
 ![image](https://github.com/user-attachments/assets/d594d7c3-757e-44da-9b36-98099863095a)
 
 ### Histograms
+
 - Histograms are used for continuous variables.
 - APPL and AMZN have the highest volume
 - The highest price rate (high, low, close, and adjclose) is for AMZN
@@ -101,7 +116,7 @@
 
 ## Descriptive Analysis
 
-** AAPL **
+**AAPL**
 - Mean close : 168.11
 - SD : 60.89
 - Minimum close : 90.34
@@ -109,8 +124,7 @@
 
 ![image](https://github.com/user-attachments/assets/ea858804-a9ee-49f5-ae33-8a2b517b1084)
 
-
-** GOOG **
+**GOOG**
 - Mean close : 954.07
 - SD : 257.03
 - Minimum close : 491.20
@@ -118,7 +132,7 @@
 
 ![image](https://github.com/user-attachments/assets/60f30429-e79a-43ed-8f96-8f6e7704fdf6)
 
-** AMZN **
+**AMZN**
 - Mean close : 1213.50
 - SD : 601.22
 - Minimum close : 286.95
@@ -126,7 +140,7 @@
 
 ![image](https://github.com/user-attachments/assets/2c797445-3ffe-4a32-9fe8-13ce78bcda90)
 
-** MSFT **
+**MSFT**
 - Mean close : 89.55
 - SD : 40.84
 - Minimum close : 40.29
@@ -134,7 +148,7 @@
 
 ![image](https://github.com/user-attachments/assets/d7803982-3269-4d0a-9f7f-05acbd61c563)
 
-** TSLA **
+**TSLA**
 - Mean close : 310.69
 - SD : 152.18
 - Minimum close : 143.67
@@ -232,8 +246,21 @@ Normalization of the values is performed to make all the values to be consistent
 
 Sequences of length from training and testing data for training an LSTM model are created, where each sequence represents a historical window used to predict the next time step.
 
-
 ![image](https://github.com/user-attachments/assets/551190f3-20bb-4ede-8787-7b0de2c52f54)
+
+## Creating and Fitting LSTM Model
+
+A sequential model for a Long Short-Term Memory (LSTM) neural network with three layers is initialized
+- 1 input layer
+- 2 hidden layers
+- 1 output
+- - 50 neurons
+  - dropout layers to prevent overfitting
+  - a dense output layer with one unit
+
+![image](https://github.com/user-attachments/assets/c641b304-e23a-46c5-bb91-26f0b1343d73)
+
+
 
 
 
