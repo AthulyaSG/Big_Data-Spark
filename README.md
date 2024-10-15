@@ -9,7 +9,7 @@
 * A stock signifies ownership in a company or organization, entailing a proportional stake in its assets and earnings
 * Stock exchanges serve as secondary markets where shareholders can engage in transactions (Hayes, 2023)
 
-## PySpark
+### PySpark
 
 * To facilitate the integration of Spark and Python
 * The Python API for Apache Spark, an open-source distributed computing framework and collection of libraries for processing massive amounts of data in real-time
@@ -17,24 +17,11 @@
 * Contrast between Pandas and Spark dataframes lies in their execution
 * In PySpark, operations are postponed until they are specifically requested in the pipeline (PySpark, n.d.)
 
-## Long Short-Term Memory
+### Long Short-Term Memory
 
 * Long Short-Term Memory (LSTM) stands out for its proficiency in capturing intricate patterns and dependencies within historical data
 * LSTM shows promise for understanding the unpredictable nature of the stock market
 * LSTM uses memory cells, gates, and well-designed connections to selectively store and transmit information over extended time periods, allowing these models to effectively capture complex temporal patterns in sequential data, especially in predicting time series data like stock prices (Chauhan, 2023)
-
-## Data Characteristics
-
-- Number of rows: 68522038
-- Number of columns: 8
-![image](https://github.com/user-attachments/assets/92ea9f82-3195-46ce-a120-7df79a69ab6a)
-
-- Minimum and maximum dates are determined
-- Timeframe from January 2, 2015, to July 2, 2020
-![image](https://github.com/user-attachments/assets/0bb4da6f-7f6b-43e5-9cdc-aaf49c22810b)
-- Total count of distinct company symbols
-- Presence of 6335  companies
-![image](https://github.com/user-attachments/assets/f9af7d1b-54f4-4b5b-b2a6-4e30117b97e8)
 
 ## Data
 
@@ -49,6 +36,19 @@
 
 ![image](https://github.com/user-attachments/assets/a57f1187-76d7-455d-af88-97cb5fd4dbf2)
 
+### Data Characteristics
+
+- Number of rows: 68522038
+- Number of columns: 8
+![image](https://github.com/user-attachments/assets/92ea9f82-3195-46ce-a120-7df79a69ab6a)
+
+- Minimum and maximum dates are determined
+- Timeframe from January 2, 2015, to July 2, 2020
+![image](https://github.com/user-attachments/assets/0bb4da6f-7f6b-43e5-9cdc-aaf49c22810b)
+- Total count of distinct company symbols
+- Presence of 6335  companies
+![image](https://github.com/user-attachments/assets/f9af7d1b-54f4-4b5b-b2a6-4e30117b97e8)
+
 ### Data Categorization
 
 * Temporal Features: Date (Timestamp)
@@ -62,7 +62,7 @@
 - volume -> long (i.e., integer)
 - open, high, low, close, and adjclose -> double (i.e., floating point)
 
-## Data Preprocessing
+### Data Selection
 
 - Check for missing values
 - No null values
@@ -112,7 +112,6 @@
 - The lowest for MSFT
 
 ![image](https://github.com/user-attachments/assets/1ade71fd-f63e-47e7-a538-9b3033684303)
-
 
 ## Descriptive Analysis
 
@@ -248,7 +247,7 @@ Sequences of length from training and testing data for training an LSTM model ar
 
 ![image](https://github.com/user-attachments/assets/551190f3-20bb-4ede-8787-7b0de2c52f54)
 
-## Creating and Fitting LSTM Model
+### Creating and Fitting LSTM Model
 
 A sequential model for a Long Short-Term Memory (LSTM) neural network with three layers is initialized
 - 1 input layer
