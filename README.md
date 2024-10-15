@@ -284,6 +284,21 @@ The R2 value of 0.75 suggests that the model explains about 75% of the variabili
 
 ![image](https://github.com/user-attachments/assets/b8211405-5c9e-455f-ba5e-08da310fa7e7)
 
+## Actual versus Predicted Values
+
+- Visual comparison of the assessment of the model's predictions against actual values over specified time steps
+- To evaluate the performance of predictive models
+- Degree of alignment indicates the accuracy of the model's predictions
+- A close correspondence between the lines signifies that the model is making precise predictions
+
+![image](https://github.com/user-attachments/assets/f63f7cc3-4dfb-494f-961d-7bd79c083c5d)
+
+- Previous 60 time steps are considered for plotting
+- Visualize the training and test predictions compared to the actual Apple stock prices, with predictions rescaled back to the original scale using the scaler.
+
+![image](https://github.com/user-attachments/assets/507de8bd-5653-439c-a408-21162cd09cbe)
+
+
 
 
 
