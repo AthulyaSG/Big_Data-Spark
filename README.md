@@ -298,6 +298,16 @@ The R2 value of 0.75 suggests that the model explains about 75% of the variabili
 
 ![image](https://github.com/user-attachments/assets/61a92144-4697-4c6d-8559-31f60f910346)
 
+## 10-Day Prediction
+
+- The stock prices for the next 10 days using an LSTM model are predicted, generating predictions iteratively, and then transforming the predictions back to the original scale.
+- From the graph, it can be concluded that the price of the AAPL stock will decrease for the next 10 days.
+
+![image](https://github.com/user-attachments/assets/01f088df-898f-4153-9994-ef8bf1986e96)
+
+![image](https://github.com/user-attachments/assets/d5013f6d-a225-484d-bf3c-03e5ccc6d5c0)
+
+
 
 
 
