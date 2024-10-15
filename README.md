@@ -254,11 +254,18 @@ A sequential model for a Long Short-Term Memory (LSTM) neural network with three
 - 1 input layer
 - 2 hidden layers
 - 1 output
-- - 50 neurons
+  - 50 neurons
   - dropout layers to prevent overfitting
   - a dense output layer with one unit
 
 ![image](https://github.com/user-attachments/assets/c641b304-e23a-46c5-bb91-26f0b1343d73)
+
+An LSTM model is trained using historical data
+- 50 epochs
+- a batch size of 64
+- validation split of 0.1
+
+![image](https://github.com/user-attachments/assets/bdf88078-4099-4504-ab5c-cf902502b0b7)
 
 
 
