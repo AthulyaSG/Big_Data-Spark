@@ -296,7 +296,8 @@ The R2 value of 0.75 suggests that the model explains about 75% of the variabili
 - Previous 60 time steps are considered for plotting
 - Visualize the training and test predictions compared to the actual Apple stock prices, with predictions rescaled back to the original scale using the scaler.
 
-![image](https://github.com/user-attachments/assets/507de8bd-5653-439c-a408-21162cd09cbe)
+![image](https://github.com/user-attachments/assets/61a92144-4697-4c6d-8559-31f60f910346)
+
 
 
 
