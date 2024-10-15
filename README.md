@@ -307,6 +307,13 @@ The R2 value of 0.75 suggests that the model explains about 75% of the variabili
 
 ![image](https://github.com/user-attachments/assets/d5013f6d-a225-484d-bf3c-03e5ccc6d5c0)
 
+## References
+
+- Chauhan, P. (2023). Stock prediction and forecasting using LSTM (Long-Short-Term-Memory). https://medium.com/@prajjwalchauhan94017/stock-prediction-and-forecasting-using-lstm-long-short-term-memory-9ff56625de73
+- Hayes, A. (2023). How does the stock market work? https://www.investopedia.com/articles/investing/082614/how-stock-market-works.asp#toc-what-is-a-stock
+- PySpark. (n.d.). What is PySpark? https://domino.ai/data-science-dictionary/pyspark
+
+
 
 
 
