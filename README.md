@@ -272,6 +272,19 @@ An LSTM model is trained using historical data
 
 ![image](https://github.com/user-attachments/assets/9dea6c6b-5019-4d28-966f-ab8cb8e24a88)
 
+### Mean Absolute Percentage Error
+
+MAPE is calculated for the predicted values against the actual values, resulting in an accuracy of 95.03%.
+
+![image](https://github.com/user-attachments/assets/86d315c3-c09c-4417-99bd-d1b6d58d1e70)
+
+### R2 Value
+
+The R2 value of 0.75 suggests that the model explains about 75% of the variability in the data, indicating a moderately good fit.
+
+![image](https://github.com/user-attachments/assets/27659ac2-04ec-44be-8cf4-c4e81b134924)
+
+
 
 
 
