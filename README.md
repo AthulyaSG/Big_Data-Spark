@@ -282,7 +282,8 @@ MAPE is calculated for the predicted values against the actual values, resulting
 
 The R2 value of 0.75 suggests that the model explains about 75% of the variability in the data, indicating a moderately good fit.
 
-![image](https://github.com/user-attachments/assets/27659ac2-04ec-44be-8cf4-c4e81b134924)
+![image](https://github.com/user-attachments/assets/b8211405-5c9e-455f-ba5e-08da310fa7e7)
+
 
 
 
