@@ -267,6 +267,10 @@ An LSTM model is trained using historical data
 
 ![image](https://github.com/user-attachments/assets/bdf88078-4099-4504-ab5c-cf902502b0b7)
 
+- Training loss remains consistently low and stable
+- Validation loss exhibits slight variations
+
+![image](https://github.com/user-attachments/assets/9dea6c6b-5019-4d28-966f-ab8cb8e24a88)
 
 
 
